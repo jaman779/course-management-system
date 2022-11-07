@@ -1,0 +1,20 @@
+[
+  {
+    "code": "777",
+    "title": "Computer Graphics",
+    "credit": "3",
+    "pre_code": "555"
+  },
+  {
+    "code": "555",
+    "title": "Accounting",
+    "credit": "3",
+    "pre_code": "888"
+  },
+  {
+    "code": "633",
+    "title": "Finance",
+    "credit": "4",
+    "pre_code": "555"
+  }
+]
